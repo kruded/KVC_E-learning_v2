@@ -1,8 +1,8 @@
 {
     "app_id" : "kvc.moodle.moodlemobile",
-    "appname": "KVC Mobile App",
+    "appname": "LMS Mobile App",
     "desktopappname": "Moodle Desktop",
-    "versioncode" : "20180227",
+    "versioncode" : "20180228",
     "versionname" : "1.0.3",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",

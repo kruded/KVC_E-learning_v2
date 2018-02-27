@@ -5,7 +5,7 @@
         id        = "kvc.moodle.moodlemobile"
         versionCode = "20180227"
         version   = "1.0.3">
-    <name>KVC Mobile App</name>
+    <name>KVC LMS Mobile App</name>
 
     <description>
         KVC Mobile official app
