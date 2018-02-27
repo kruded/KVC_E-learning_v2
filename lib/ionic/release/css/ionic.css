@@ -3950,14 +3950,14 @@ a.subdued {
     .bar.bar-calm.bar-footer {
       background-image: linear-gradient(180deg, #0a9dc7, #0a9dc7 50%, transparent 50%); }
   .bar.bar-assertive {
-    border-color: #e42112;
+    border-color: #336699;
     background-color: #ef473a;
-    background-image: linear-gradient(0deg, #e42112, #e42112 50%, transparent 50%);
+    background-image: linear-gradient(0deg, #336699, #336699 50%, transparent 50%);
     color: #fff; }
     .bar.bar-assertive .title {
       color: #fff; }
     .bar.bar-assertive.bar-footer {
-      background-image: linear-gradient(180deg, #e42112, #e42112 50%, transparent 50%); }
+      background-image: linear-gradient(180deg, #336699, #336699 50%, transparent 50%); }
   .bar.bar-balanced {
     border-color: #28a54c;
     background-color: #33cd5f;
@@ -3968,14 +3968,14 @@ a.subdued {
     .bar.bar-balanced.bar-footer {
       background-image: linear-gradient(180deg, #28a54c, #28a54c 50%, transparent 50%); }
   .bar.bar-energized {
-    border-color: #e6b500;
+    border-color: #336699;
     background-color: #ffc900;
-    background-image: linear-gradient(0deg, #e6b500, #e6b500 50%, transparent 50%);
+    background-image: linear-gradient(0deg, #336699, #336699 50%, transparent 50%);
     color: #fff; }
     .bar.bar-energized .title {
       color: #fff; }
     .bar.bar-energized.bar-footer {
-      background-image: linear-gradient(180deg, #e6b500, #e6b500 50%, transparent 50%); }
+      background-image: linear-gradient(180deg, #336699, #336699 50%, transparent 50%); }
   .bar.bar-royal {
     border-color: #6b46e5;
     background-color: #886aea;
@@ -4174,15 +4174,15 @@ a.subdued {
     background: none; }
 
 .bar-assertive .button {
-  border-color: #e42112;
+  border-color: #336699;
   background-color: #ef473a;
   color: #fff; }
   .bar-assertive .button:hover {
     color: #fff;
     text-decoration: none; }
   .bar-assertive .button.active, .bar-assertive .button.activated {
-    border-color: #e42112;
-    background-color: #e42112; }
+    border-color: #336699;
+    background-color: #336699; }
   .bar-assertive .button.button-clear {
     border-color: transparent;
     background: none;
@@ -4214,15 +4214,15 @@ a.subdued {
     background: none; }
 
 .bar-energized .button {
-  border-color: #e6b500;
+  border-color: #336699;
   background-color: #ffc900;
   color: #fff; }
   .bar-energized .button:hover {
     color: #fff;
     text-decoration: none; }
   .bar-energized .button.active, .bar-energized .button.activated {
-    border-color: #e6b500;
-    background-color: #e6b500; }
+    border-color: #336699;
+    background-color: #336699; }
   .bar-energized .button.button-clear {
     border-color: transparent;
     background: none;
@@ -4425,9 +4425,9 @@ a.subdued {
 
 .tabs-assertive > .tabs,
 .tabs.tabs-assertive {
-  border-color: #e42112;
+  border-color: #336699;
   background-color: #ef473a;
-  background-image: linear-gradient(0deg, #e42112, #e42112 50%, transparent 50%);
+  background-image: linear-gradient(0deg, #336699, #336699 50%, transparent 50%);
   color: #fff; }
   .tabs-assertive > .tabs .tab-item .badge,
   .tabs.tabs-assertive .tab-item .badge {
@@ -4447,9 +4447,9 @@ a.subdued {
 
 .tabs-energized > .tabs,
 .tabs.tabs-energized {
-  border-color: #e6b500;
+  border-color: #336699;
   background-color: #ffc900;
-  background-image: linear-gradient(0deg, #e6b500, #e6b500 50%, transparent 50%);
+  background-image: linear-gradient(0deg, #336699, #336699 50%, transparent 50%);
   color: #fff; }
   .tabs-energized > .tabs .tab-item .badge,
   .tabs.tabs-energized .tab-item .badge {
@@ -4845,8 +4845,8 @@ a.subdued {
 .tabs-background-assertive .tabs,
 .tabs-background-assertive > .tabs {
   background-color: #ef473a;
-  background-image: linear-gradient(0deg, #e42112, #e42112 50%, transparent 50%);
-  border-color: #e42112; }
+  background-image: linear-gradient(0deg, #336699, #336699 50%, transparent 50%);
+  border-color: #336699; }
 
 .tabs-background-balanced .tabs,
 .tabs-background-balanced > .tabs {
@@ -4857,8 +4857,8 @@ a.subdued {
 .tabs-background-energized .tabs,
 .tabs-background-energized > .tabs {
   background-color: #ffc900;
-  background-image: linear-gradient(0deg, #e6b500, #e6b500 50%, transparent 50%);
-  border-color: #e6b500; }
+  background-image: linear-gradient(0deg, #336699, #336699 50%, transparent 50%);
+  border-color: #336699; }
 
 .tabs-background-royal .tabs,
 .tabs-background-royal > .tabs {
@@ -5763,7 +5763,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
     background-color: #11c1f3;
     color: #fff; }
   .item.item-assertive {
-    border-color: #e42112;
+    border-color: #336699;
     background-color: #ef473a;
     color: #fff; }
   .item.item-balanced {
@@ -5771,7 +5771,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
     background-color: #33cd5f;
     color: #fff; }
   .item.item-energized {
-    border-color: #e6b500;
+    border-color: #336699;
     background-color: #ffc900;
     color: #fff; }
   .item.item-royal {
@@ -5875,16 +5875,16 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .item-complex.activated .item-content.item-assertive,
   .item .item-content.active.item-assertive,
   .item .item-content.activated.item-assertive {
-    border-color: #e42112;
-    background-color: #e42112; }
+    border-color: #336699;
+    background-color: #336699; }
     .item.active.item-assertive.item-complex > .item-content,
     .item.activated.item-assertive.item-complex > .item-content,
     .item-complex.active .item-content.item-assertive.item-complex > .item-content,
     .item-complex.activated .item-content.item-assertive.item-complex > .item-content,
     .item .item-content.active.item-assertive.item-complex > .item-content,
     .item .item-content.activated.item-assertive.item-complex > .item-content {
-      border-color: #e42112;
-      background-color: #e42112; }
+      border-color: #336699;
+      background-color: #336699; }
   .item.active.item-balanced,
   .item.activated.item-balanced,
   .item-complex.active .item-content.item-balanced,
@@ -5907,16 +5907,16 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .item-complex.activated .item-content.item-energized,
   .item .item-content.active.item-energized,
   .item .item-content.activated.item-energized {
-    border-color: #e6b500;
-    background-color: #e6b500; }
+    border-color: #336699;
+    background-color: #336699; }
     .item.active.item-energized.item-complex > .item-content,
     .item.activated.item-energized.item-complex > .item-content,
     .item-complex.active .item-content.item-energized.item-complex > .item-content,
     .item-complex.activated .item-content.item-energized.item-complex > .item-content,
     .item .item-content.active.item-energized.item-complex > .item-content,
     .item .item-content.activated.item-energized.item-complex > .item-content {
-      border-color: #e6b500;
-      background-color: #e6b500; }
+      border-color: #336699;
+      background-color: #336699; }
   .item.active.item-royal,
   .item.activated.item-royal,
   .item-complex.active .item-content.item-royal,
@@ -6080,15 +6080,15 @@ a.item-content {
       background-color: #0a9dc7; }
 
 .item-complex.item-assertive > .item-content {
-  border-color: #e42112;
+  border-color: #336699;
   background-color: #ef473a;
   color: #fff; }
   .item-complex.item-assertive > .item-content.active, .item-complex.item-assertive > .item-content:active {
-    border-color: #e42112;
-    background-color: #e42112; }
+    border-color: #336699;
+    background-color: #336699; }
     .item-complex.item-assertive > .item-content.active.item-complex > .item-content, .item-complex.item-assertive > .item-content:active.item-complex > .item-content {
-      border-color: #e42112;
-      background-color: #e42112; }
+      border-color: #336699;
+      background-color: #336699; }
 
 .item-complex.item-balanced > .item-content {
   border-color: #28a54c;
@@ -6102,15 +6102,15 @@ a.item-content {
       background-color: #28a54c; }
 
 .item-complex.item-energized > .item-content {
-  border-color: #e6b500;
+  border-color: #336699;
   background-color: #ffc900;
   color: #fff; }
   .item-complex.item-energized > .item-content.active, .item-complex.item-energized > .item-content:active {
-    border-color: #e6b500;
-    background-color: #e6b500; }
+    border-color: #336699;
+    background-color: #336699; }
     .item-complex.item-energized > .item-content.active.item-complex > .item-content, .item-complex.item-energized > .item-content:active.item-complex > .item-content {
-      border-color: #e6b500;
-      background-color: #e6b500; }
+      border-color: #336699;
+      background-color: #336699; }
 
 .item-complex.item-royal > .item-content {
   border-color: #6b46e5;
@@ -8736,7 +8736,7 @@ progress {
       text-decoration: none; }
     .button.button-assertive.active, .button.button-assertive.activated {
       border-color: #a2a2a2;
-      background-color: #e42112; }
+      background-color: #336699; }
     .button.button-assertive.button-clear {
       border-color: transparent;
       background: none;
@@ -8788,7 +8788,7 @@ progress {
       text-decoration: none; }
     .button.button-energized.active, .button.button-energized.activated {
       border-color: #a2a2a2;
-      background-color: #e6b500; }
+      background-color: #336699; }
     .button.button-energized.button-clear {
       border-color: transparent;
       background: none;
@@ -9004,11 +9004,11 @@ a.button {
   .button-bar.bar-calm > .button {
     border-color: #0a9dc7; }
   .button-bar.bar-assertive > .button {
-    border-color: #e42112; }
+    border-color: #336699; }
   .button-bar.bar-balanced > .button {
     border-color: #28a54c; }
   .button-bar.bar-energized > .button {
-    border-color: #e6b500; }
+    border-color: #336699; }
   .button-bar.bar-royal > .button {
     border-color: #6b46e5; }
   .button-bar.bar-dark > .button {
@@ -9530,7 +9530,7 @@ a.button {
   background-color: #ef473a; }
 
 .assertive-border {
-  border-color: #e42112; }
+  border-color: #336699; }
 
 .balanced, a.balanced {
   color: #33cd5f; }
@@ -9548,7 +9548,7 @@ a.button {
   background-color: #ffc900; }
 
 .energized-border {
-  border-color: #e6b500; }
+  border-color: #336699; }
 
 .royal, a.royal {
   color: #886aea; }
