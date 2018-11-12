@@ -170,7 +170,7 @@
 
     <gap:plugin name="cordova-plugin-zip" source="npm" version="3.1.0" />
 
-    <gap:plugin name="cordova-plugin-local-notifications-mm" source="npm" version="1.0.13"/>
+    <gap:plugin name="cordova-plugin-local-notification" source="npm" />
 
     <gap:plugin name="net.tunts.webintent" spec="https://github.com/Tunts/WebIntent.git" source="git" />
 
