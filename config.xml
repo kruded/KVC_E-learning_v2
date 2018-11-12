@@ -34,7 +34,9 @@
 
     <allow-intent href="*" />
 
-    <preference name="phonegap-version" value="cli-4.2.0" />
+	<preference name = "phonegap-version" value = "cli-7.1.0" />
+    <preference name = "pgb-builder-version" value = "2" />
+     <engine name = "android" spec = "7.0.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
